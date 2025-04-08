@@ -13,6 +13,6 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
-   <Label prefHeight="18.0" prefWidth="113.0" text="Yarden" />
+   <Label prefHeight="18.0" prefWidth="113.0" text="Yarden Tziar" textFill="#06bf00" />
 
 </VBox>
